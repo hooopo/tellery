@@ -1,8 +1,1 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M5 8L8 10L5 12V8Z" fill="currentColor"/>
-<path d="M15 8L12 10L15 12V8Z" fill="currentColor"/>
-<mask id="path-3-inside-1" fill="white">
-<rect x="2" y="3" width="16" height="14" rx="1"/>
-</mask>
-<rect x="2" y="3" width="16" height="14" rx="1" stroke="currentColor" stroke-width="3.34" mask="url(#path-3-inside-1)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 20 20"><path fill="currentColor" d="M5 8L8 10L5 12V8Z"/><path fill="currentColor" d="M15 8L12 10L15 12V8Z"/><mask id="path-3-inside-1" fill="#fff"><rect width="16" height="14" x="2" y="3" rx="1"/></mask><rect width="16" height="14" x="2" y="3" stroke="currentColor" stroke-width="3.34" mask="url(#path-3-inside-1)" rx="1"/></svg>
